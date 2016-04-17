@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <Button
+        android:id="@+id/tabButtonLeft"
+        android:layout_width="@dimen/tab_button_width"
+        android:layout_height="@dimen/tab_button_height"
+        android:enabled="false"
+        android:clickable="false"
+        android:background="@drawable/tab_button_left"
+        android:text="@string/tab_button_introduction"
+        android:textSize="@dimen/tab_button_text_size"
+        android:textColor="@color/tab_button_text_color" />
+    <Button
+        android:id="@+id/tabButtonRight"
+        android:layout_width="@dimen/tab_button_width"
+        android:layout_height="@dimen/tab_button_height"
+        android:enabled="true"
+        android:clickable="true"
+        android:background="@drawable/tab_button_right"
+        android:text="@string/tab_button_doctor"
+        android:textSize="@dimen/tab_button_text_size"
+        android:textColor="@color/tab_button_text_color" />
+</LinearLayout>

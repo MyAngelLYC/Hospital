@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_left_blue.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_left_blue.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_right_blue.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_right_blue.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_right.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_right.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_right_white.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_right_white.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_left.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_left.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_button_left_white.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\drawable\\tab_button_left_white.xml"
+    }
+]

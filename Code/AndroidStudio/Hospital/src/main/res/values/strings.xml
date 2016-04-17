@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">挂号通</string>
+    <string name="tab_button_introduction">简介</string>
+    <string name="tab_button_doctor">医生</string>
+</resources>

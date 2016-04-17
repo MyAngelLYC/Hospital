@@ -1,0 +1,171 @@
+[
+    {
+        "outputFile": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 65,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 54,
+                    "endOffset": 235
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 240,
+                    "endColumn": 55,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 54,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 48,
+                    "endOffset": 395
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 400,
+                    "endColumn": 53,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 51,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 47,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 40,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endColumn": 48,
+                    "endOffset": 639
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 644,
+                    "endColumn": 54,
+                    "endOffset": 694
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 54,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 699,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

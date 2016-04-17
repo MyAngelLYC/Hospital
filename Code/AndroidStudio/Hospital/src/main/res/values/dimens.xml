@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="activity_titleBar_height">45dp</dimen>
+    <dimen name="tab_button_width">60dp</dimen>
+    <dimen name="tab_button_height">30dp</dimen>
+    <dimen name="tab_button_corner_radius">7dp</dimen>
+    <dimen name="tab_button_stroke_width">1dp</dimen>
+    <dimen name="tab_button_text_size">14sp</dimen>
+</resources>

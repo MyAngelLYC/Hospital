@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 55,
+                        "endOffset": 68
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\layout\\activity_base.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\layout\\activity_base.xml"
+    },
+    {
+        "merged": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\build\\intermediates\\res\\merged\\debug\\layout\\tab_button.xml",
+        "source": "D:\\GitHub\\Hospital\\Code\\AndroidStudio\\Hospital\\src\\main\\res\\layout\\tab_button.xml"
+    }
+]

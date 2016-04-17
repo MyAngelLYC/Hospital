@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="title_Bar_Background">#12B7F5</color>
+    <color name="tab_button_checked_text_color">#12B7F5</color>
+    <color name="tab_button_unchecked_text_color">#FFFFFF</color>
+</resources>
