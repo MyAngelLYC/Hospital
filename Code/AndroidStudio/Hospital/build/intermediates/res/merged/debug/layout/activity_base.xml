@@ -21,11 +21,10 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:visibility="gone" />
-        <LinearLayout
-            android:id="@+id/titleView"
+        <ViewStub
+            android:id="@+id/titleViewStub"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="horizontal"
             android:layout_centerInParent="true"/>
         <LinearLayout
             android:id="@+id/titleRightButton"

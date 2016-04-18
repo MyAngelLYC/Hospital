@@ -42,7 +42,7 @@ public final class R {
         public static final int titleBarContainer=0x7f090001;
         public static final int titleLeftButton=0x7f090002;
         public static final int titleRightButton=0x7f090004;
-        public static final int titleView=0x7f090003;
+        public static final int titleViewStub=0x7f090003;
         public static final int viewContainer=0x7f090005;
     }
     public static final class layout {
